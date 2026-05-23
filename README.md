@@ -28,8 +28,8 @@ freelance-task/
 
 ## Database Requirements
 Please ensure that a local MySQL server is running on port `3306` with the following credentials:
-- **Username:** `root`
-- **Password:** `Aditya@2001`
+- **Username:** `your-username`
+- **Password:** `your-password`
 
 The database named `library_db` will be **automatically created** upon starting the backend application if it does not already exist, and Flyway will execute all schema migration scripts.
 
