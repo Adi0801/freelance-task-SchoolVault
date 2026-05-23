@@ -85,3 +85,16 @@ The frontend will run on:
 - **Return Rules:**
   - Returning a book updates the transaction status to `RETURNED`, records the `returnedAt` timestamp, and increments the book's `availableCopies` by 1.
 - Full transaction logs are viewable globally, filtered per book, or filtered per member.
+
+---
+## Screenshot Attach
+<img width="1876" height="683" alt="image" src="https://github.com/user-attachments/assets/f47820d6-12d7-425e-9d66-634ece4150fd" />
+<img width="1752" height="852" alt="image" src="https://github.com/user-attachments/assets/069379d1-5ebc-4e7e-be02-904cdc704f43" />
+<img width="1762" height="836" alt="image" src="https://github.com/user-attachments/assets/1d390741-6440-4698-b8c7-8214dfd32df6" />
+<img width="1707" height="828" alt="image" src="https://github.com/user-attachments/assets/d1614547-75cd-42c2-85cf-f3251564901a" />
+<img width="1735" height="831" alt="image" src="https://github.com/user-attachments/assets/2f7f7d04-e641-4e36-aa69-047b77f0bb50" />
+
+
+
+
+
